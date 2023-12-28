@@ -1,0 +1,81 @@
+body{
+	text-align: center;
+	
+}
+.a1{
+	text-align: center;
+	
+	background-color:darkgray;
+	margin-top: 20px;
+	
+	border: 1px black solid;
+	
+
+}
+   
+.s1{
+	background-color:yellowgreen;
+	color: white;
+}   
+
+
+button2{
+	background-color: red;
+}
+
+button3{
+	background-color: red;
+	color: white;
+	margin-right: 80%;
+}
+
+
+
+h2{
+	text-align: left;
+}
+
+h4{
+	text-align: left;
+}
+
+
+.as1{
+	background-color: darkgray;
+}
+
+
+
+.container{
+	width:80%;
+}
+a:visited
+{
+	color:green;
+}
+.c1{
+	
+	;
+
+}
+img{
+	;
+	
+}
+
+.a5{
+	
+	border: 3px yellow solid;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+.a{
+	text-align: left;
+}
+
+.b2{
+	border: 3px black solid;
+}
+
